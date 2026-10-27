@@ -125,6 +125,6 @@
       "skills": [{"id":"1", "title":"Languages", "data":"Java, Javascript"}, {"id":"2","title":"Profiling Tools","data":"JVM Profiler (JMC, VisualVM), Pixie, Jaeger"}, {"id":"3","title":"Automation Frameworks","data":"Selenium, TestNG, Cucumber"}]
     }
   ],
-  "aboutpara": "I’m a Engineer with 3+ years of experience building backend systems and developer infrastructure. A Computer Science graduate from NIT Silchar, I’ve spent my career at companies like Sprinklr and Electronic Arts designing APIs, optimizing database workloads, and building end-to-end backend services where correctness, scalability, and low latency matter.",
+  "aboutpara": "I'm a Software Engineer with 3+ years of experience building backend systems and developer infrastructure. A Computer Science graduate from NIT Silchar, I’ve spent my career at companies like Sprinklr and Electronic Arts designing APIs, optimizing database workloads, and building end-to-end backend services where correctness, scalability, and low latency matter.",
   "data_version": "Updated About"
 }
